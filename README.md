@@ -14,7 +14,7 @@
 
 
 
-$${\color{#f5f3e6} she  \space  /  \space  her  \space  any }$$
+$${\color{#BEDBB1}do \space \color{#855CAF}not \space \color{#84354F}copy}$$
 
 
    
