@@ -10,7 +10,7 @@
 
 
 
-$${\color{#BEDBB1}do \space \color{#9F9FBE}not \space \color{#3C315C}copy}$$
+$${\color{#782F4A}do \space \color{#846CB0}not \space \color{#A3B8B1}copy}$$
 
 
    
