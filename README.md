@@ -14,7 +14,7 @@
 
 
 
-$${\color{#BEDBB1}do \space \color{#855CAF}not \space \color{#84354F}copy}$$
+$${\color{#BEDBB1}do \space \color{#9F9FBE}not \space \color{#3C315C}copy}$$
 
 
    
