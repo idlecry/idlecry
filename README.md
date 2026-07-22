@@ -9,6 +9,10 @@
 <img src="https://img.sanishtech.com/u/6666098251a26264f64a0b2cb88012f4.png" style="background-color: transparent !important; ">
 
 
+$${\color{#FFFFFF}that \space \color{#FFFFFF}hurts}$$
+
+
+<img src="https://img.sanishtech.com/u/24dd73b4b3de9a9a4afb35b963f5e8e3.jpg" style="background-color: transparent !important; ">
 
 $${\color{#782F4A}do \space \color{#846CB0}not \space \color{#A3B8B1}copy}$$
 
